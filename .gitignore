@@ -1,0 +1,31 @@
+# ---- Python / virtual environments ----
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---- Jupyter / IPython ----
+.ipynb_checkpoints/
+.profile_default/
+.ipython/
+
+# ---- VS Code ----
+.vscode/
+.history/
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs / temp ----
+*.log
+*.tmp
+
+# ---- Build / packaging ----
+build/
+dist/
+*.egg-info/
+.eggs/
